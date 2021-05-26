@@ -29,8 +29,8 @@
 #         print(i)
 #     for i in lis1:
 #         print(i)
-# # as much bigger input becomes, the complexity of this function is 2(n), 2 - is a constant, when we reach big
-# values, constants do not matter any more ==> the complexity becomes O(n)
+# # the bigger input becomes, the complexity of this function is 2(n), 2 - is a constant, when we reach big
+# # values, constants do not matter any more ==> the complexity becomes O(n)
 # func_linear1([1, 2, 3, 4, 5, 6, 7])
 
 
